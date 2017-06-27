@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 1073741824,
+"dataUrl": "AdriTanTheBluffsWebGL.data.unityweb",
+"asmCodeUrl": "AdriTanTheBluffsWebGL.asm.code.unityweb",
+"asmMemoryUrl": "AdriTanTheBluffsWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "AdriTanTheBluffsWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
